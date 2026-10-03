@@ -1,0 +1,15 @@
+D:\VS\Coursework\Algorithms\KT-1\bin\Debug\net10.0\KT-1.exe
+D:\VS\Coursework\Algorithms\KT-1\bin\Debug\net10.0\KT-1.deps.json
+D:\VS\Coursework\Algorithms\KT-1\bin\Debug\net10.0\KT-1.runtimeconfig.json
+D:\VS\Coursework\Algorithms\KT-1\bin\Debug\net10.0\KT-1.dll
+D:\VS\Coursework\Algorithms\KT-1\bin\Debug\net10.0\KT-1.pdb
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.AssemblyInfoInputs.cache
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.AssemblyInfo.cs
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.csproj.CoreCompileInputs.cache
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.dll
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\refint\KT-1.dll
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.pdb
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.genruntimeconfig.cache
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\ref\KT-1.dll
+D:\VS\Coursework\Algorithms\KT-1\obj\Debug\net10.0\KT-1.csproj.Up2Date
